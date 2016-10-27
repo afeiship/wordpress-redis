@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-redis",
+  "version": "0.0.0",
+  "description": "Redis for wordpress.",
+  "homepage": "https://github.com/afeiship/wordpress-redis",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT"
+}
