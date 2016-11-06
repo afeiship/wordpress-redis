@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-WP_ROOT=$1;
+echo 'Please input wp root path(eg:/var/www/test.com/wordpress/):';
+read WP_ROOT;
 
 ## donwload file to wordpress root dir:
 cd $WP_ROOT;
